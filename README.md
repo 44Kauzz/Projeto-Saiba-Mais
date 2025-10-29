@@ -15,7 +15,7 @@ O sistema foi desenvolvido para melhorar a interação entre a população e os 
 
 ### Funcionalidades Iniciais
 Até o momento, o desenvolvimento do projeto está focado nas seguintes funcionalidades:
-- **Cadastro de Usuário (CRUD)**: Os usuários podem se cadastrar no sistema, armazenando informações como nome, CPF e dados de contato.
+- **Cadastro de Usuário**: Os usuários podem se cadastrar no sistema, armazenando informações como nome, CPF e dados de contato.
 - **Cadastro de Histórico Médico**: Os usuários podem registrar e consultar seu histórico médico no sistema.
 - **Localização de Postos de Saúde**: O sistema está integrado com uma API de mapas para localizar os postos de saúde mais próximos ao usuário.
 - **Agendamento de Consultas**: A funcionalidade de agendamento de consultas está em desenvolvimento.
