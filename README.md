@@ -45,10 +45,6 @@ O banco de dados é projetado para ser **normalizado**, garantindo a consistênc
 
 1. **MySQL**:
    - Utilizamos o **MySQL** como sistema de gerenciamento de banco de dados (SGBD). O MySQL foi escolhido por sua **alta performance**, **robustez** e **capacidade de escalabilidade** para gerenciar dados relacionais com alta eficiência.
-
-2. **MySQL Workbench**:
-   - O **MySQL Workbench** foi utilizado para a **modelagem** e **design** do banco de dados, incluindo a criação do diagrama **EER** (Enhanced Entity-Relationship). Ele foi fundamental para visualizar as tabelas, seus campos e os relacionamentos entre elas.
-
 ---
 
 ## Como Rodar o Projeto
@@ -58,6 +54,6 @@ O banco de dados é projetado para ser **normalizado**, garantindo a consistênc
 
 ### Pré-requisitos
 Certifique-se de ter os seguintes programas instalados:
-**MySQL Workbench**
+**MySQL**
 
 ### Passos para Execução
