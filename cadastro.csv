@@ -1,4 +1,0 @@
-idpessoa,nome,cpf,email,senha,qualusuario,telefone,datanasc,diacadastro,updated_at
-1,luquinha,12213323434,lucaspressao@gmail.com,1234,Paciente,81901976528,2000-01-12,"2025-11-08 00:00:00","2025-11-08 21:41:50"
-3,zezinho,17273328434,zecaluoco@gmail.com,123864,Paciente,81901976528,2004-03-09,"2025-11-08 21:51:01","2025-11-08 21:51:01"
-8,hiago,19273728894,hiagguinha@gmail.com,15645864,profissional,81991866428,2008-08-07,"2025-11-08 21:56:59","2025-11-08 21:56:59"
