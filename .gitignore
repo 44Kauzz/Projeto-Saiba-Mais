@@ -1,1 +1,5 @@
 c"*.mwb" 
+# Arquivos locais e dados fora da estrutura
+cadastro.csv
+projetosaiba
+projetosaude01.sql
